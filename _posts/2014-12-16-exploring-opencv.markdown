@@ -16,5 +16,8 @@ Mat is the basic image container for OpenCV.
 - gpu
 - m1
 
-Basic post working with images: (https://gist.github.com/thnkr/36d9abb449f40e8c2694)[https://gist.github.com/thnkr/36d9abb449f40e8c2694]
+
+Basic post working with images: <a href="https://gist.github.com/thnkr/36d9abb449f40e8c2694" target="_blank">https://gist.github.com/thnkr/36d9abb449f40e8c2694</a>
+
+Takes an image, makes it black and white, flips it upside down: <a href="https://gist.github.com/thnkr/a90b72ffa7d54177d40b" target="_blank">https://gist.github.com/thnkr/a90b72ffa7d54177d40b</a>
 
