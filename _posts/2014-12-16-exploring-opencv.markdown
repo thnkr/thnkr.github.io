@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring OpenCV"
+title:  "Exploring OpenCV Part 1"
 date:   2014-12-16 15:38:28
 categories: opencv
 ---
