@@ -1,5 +1,6 @@
 # Site settings
 title: PM
+name: Patrick McConlogue
 email: p@tricks.email
 description: > # this means to ignore newlines until "baseurl:"
   Patrick McConlogue
