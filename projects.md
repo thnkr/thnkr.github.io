@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Idemn
 <p>Entity mapping and unique object associations through probable primes.</p>
-<a href="https://idemn.com" target="_blank">https://idemn.com</a>
+<a href="http://idemn.com" target="_blank">http://idemn.com</a>
 
 ### HushBaby
 <p>Client side encryption of messages with SHA-256.</p>
