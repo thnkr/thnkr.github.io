@@ -4,9 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-### Pattern (iOS) - In Progress
-Facial recoginition/detection to improve the process of making a selfie.
-
 ### Idemn
 <a href="https://hushbaby.org" target="_blank">https://hushbaby.org</a>
 Entity mapping and unique object associations through probable primes.
