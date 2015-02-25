@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Void: The Social Chaos Netowkr"
-date:   2014-02-24 13:38:28
+title:  "Void: The Social Chaos Network"
+date:   2015-02-24 13:38:28
 categories: opencv
 ---
 
