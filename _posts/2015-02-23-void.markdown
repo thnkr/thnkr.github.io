@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Void: The Social Chaos Netowkr"
+date:   2014-02-24 13:38:28
+categories: opencv
+---
+
+A social chaos network.
+
+You, the unsuspecting user joins www.void.systems, an invitation only network of interesting people. After filling out your profile you search for a friend by their email and add them. Your friend’s picture shows up on your profile and you send them a message…
+
+“Hi, friend, I am in the void.”
+
+Now, in Facebook the message would go to your friend. However, in Void there is a small and unknown random chance that we will just send your message to someone else in the network. It could be a friend of yours, it might not be. You may send two just to increase your odds that the message actually makes it to your friend.
+
+You see, in the void, there is an element of failure. Never to deliver on an action, everything you do, a status update, a new profile picture *will* go somewhere, it just sometimes may not go to the right place. Even a small percentage of your friends may disappear, or new friends may appear. You never know in the void.
+
+Inside the void, there lives a Chaos Monkey. He/it is a random forest algorithm with a ranging percentage less than 10% where he will effect all users across features at varying intervals of time. The Chaos Monkey can be bought off but why do that? He makes life on a social network—in the digital world-much more interesting. You will meet people you never met, get messages from real people never meant for you, explore in a way in the online world with a randomness only available in the real one.
+
+That is the concept of void.
